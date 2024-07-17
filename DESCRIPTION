@@ -1,8 +1,8 @@
-Package: tdist
+Package: trdist
 Type: Package
 Title: Univariate Proability Distribution with Truncation
-Version: 1.0.0
-Date: 2024-07-08
+Version: 1.0.1
+Date: 2024-07-17
 Authors@R: c(person("Jared", "Studyvin", role = c("aut", "cre"),
                      email = "studyvinstat@gmail.com"))
 Author: Jared Studyvin [aut, cre]
