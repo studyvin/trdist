@@ -1,0 +1,14 @@
+Package: tdist
+Type: Package
+Title: Univariate Proability Distribution with Truncation
+Version: 1.0.0
+Date: 2024-07-08
+Authors@R: c(person("Jared", "Studyvin", role = c("aut", "cre"),
+                     email = "studyvinstat@gmail.com"))
+Author: Jared Studyvin [aut, cre]
+Depends: R (>= 3.6.0)
+Imports: 
+Maintainer: Jared Studyvin <studyvinstat@gmail.com>
+Description: Truncation of univariate probability distributions. The probability distribution can come from other packages so long as the function names follow the standard d, p, q, r naming format. Also other univariate probability distributions are included. 
+License: GNU General Public License
+RoxygenNote: 7.3.2
